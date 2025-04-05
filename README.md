@@ -9,7 +9,7 @@ Sou Lucas da Silva, graduando em Ciências Contábeis pela Universidade Federal 
 
 ### Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=r,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python,mysql,git,linux)](https://skillicons.dev)
 
 ### Contato
 [![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/luc-dasilva/)
