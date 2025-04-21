@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Sou Lucas da Silva, graduando em Ciências Contábeis pela Universidade Federal da Paraíba. Entusiasta em Data Science, Negócios, Mercado e Economia.
+Sou Lucas da Silva, graduando em Ciências Contábeis pela Universidade Federal da Paraíba. Entusiasta em Data Science, Finanças, Negócios, Contabilidade, Mercados e Economia.
 
 ### Sobre mim
 
