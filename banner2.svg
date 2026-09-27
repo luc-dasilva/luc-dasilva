@@ -1,0 +1,31 @@
+<svg viewBox="0 0 900 200" width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', monospace; }
+  </style>
+
+  <!-- transparent canvas backdrop so it sits naturally in dark or light GitHub theme -->
+  <rect x="0" y="0" width="900" height="200" fill="none" />
+
+  <!-- offset hard shadow (no blur) -->
+  <rect x="16" y="16" width="868" height="168" fill="#0037DA" />
+
+  <!-- main panel -->
+  <rect x="10" y="10" width="868" height="168" fill="#0C0C0C" stroke="#3A96DD" stroke-width="2" />
+
+  <!-- terminal prompt line -->
+  <text x="40" y="55" class="mono" font-size="16" fill="#3A96DD">guest@github:~$ whoami</text>
+
+  <!-- name -->
+  <text x="40" y="105" class="mono" font-size="38" font-weight="700" letter-spacing="3" fill="#EDEDED">LUCAS DA SILVA</text>
+
+  <!-- tagline -->
+  <text x="40" y="140" class="mono" font-size="15" letter-spacing="2" fill="#767676">DATA ANALYST - DATA SCIENTIST</text>
+
+  <!-- bottom rule -->
+  <rect x="40" y="155" width="200" height="2" fill="#3A96DD" />
+
+  <!-- corner accent blocks -->
+  <rect x="838" y="26" width="14" height="14" fill="#13A00E" />
+  <rect x="838" y="46" width="14" height="14" fill="#ecb500" />
+  <rect x="838" y="66" width="14" height="14" fill="#C50F1F" />
+</svg>
