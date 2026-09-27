@@ -31,6 +31,9 @@ Analista/Cientista de dados. Atualmente interessado em políticas públicas base
 ![css](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css&logoColor=663399&labelColor=0C0C0C&color=663399)
 ![scss](https://img.shields.io/badge/-SASS-333333?style=flat-square&logo=sass&logoColor=CC6699&labelColor=0C0C0C&color=CC6699)
 ![js](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0C0C0C&color=F7DF1E)
+![bash](https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnu-bash&logoColor=4EAA25&labelColor=0C0C0C&color=4EAA25)
+![fedora](https://img.shields.io/badge/-Fedora-333333?style=flat-square&logo=fedora&logoColor=51A2DA&labelColor=0C0C0C&color=51A2DA)
+![sway](https://img.shields.io/badge/-SwayWM-333333?style=flat-square&logo=sway&logoColor=68751C&labelColor=0C0C0C&color=68751C)
 
 
 ### `$ cat contact.txt`
