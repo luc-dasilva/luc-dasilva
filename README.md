@@ -37,17 +37,3 @@ Analista/Cientista de dados. Atualmente interessado em políticas públicas base
 
 [![email](https://img.shields.io/badge/EMAIL-lucasgomes.wdcs%40gmail.com-EDEDED?style=flat-square&labelColor=0C0C0C)](mailto:lucasgomes.wdcs@gmail.com)
 [![site](https://img.shields.io/badge/SITE-luc--dasilva.github.io-3A96DD?style=flat-square&labelColor=0C0C0C)](https://luc-dasilva.github.io)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=luc-dasilva&show_icons=true&hide_border=true&hide_title=true&bg_color=0C0C0C&title_color=3A96DD&text_color=EDEDED&icon_color=3A96DD&border_color=333333&ring_color=3A96DD" alt="stats" />
-
-</div>
-
-<div align="center">
-
-```
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
